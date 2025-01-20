@@ -1,0 +1,97 @@
+20EC5203  ELECTRONIC DESIGN PROJECT- I
+MODULE 2 - AUTOMATIC ROOF SHED USING RELAY 
+
+<ABSTRACT>
+
+An automated roof shed system using relays is designed to provide smart,
+efficient control over the opening and closing of roof structures, 
+typically for agricultural, industrial, or residential applications.
+The system uses sensors to detect environmental conditions such as rain, 
+sunlight, or temperature and activates the roof shed accordingly through 
+relay switches. When specific conditions are met, such as rain detection, 
+the relay triggers the motor to close the roof, protecting the area underneath. 
+Conversely, the system opens the roof when favorable conditions return.
+This automation eliminates the need for manual intervention, ensures timely 
+operation, and enhances the protection of crops, equipment, or living spaces. 
+The use of relays offers reliable switching, low power consumption, and precise 
+control, making the system cost-effective and energy-efficient. Overall, 
+it promotes convenience, resource conservation, and improved environmental adaptability.
+
+<INTRODUCTION>
+
+An automatic roof shed system using a relay is a simple yet effective solution designed
+to provide automated control over a roof covering mechanism. By utilizing sensors, such
+as rain or temperature sensors, in conjunction with a relay switch, the system can detect 
+environmental conditions and trigger the opening or closing of the roof shed accordingly. 
+This setup ensures optimal protection against weather changes, enhances convenience, and 
+reduces the need for manual intervention, making it ideal for use in homes, agricultural 
+setups, or industrial environments.
+
+<OBJECTIVE AND SCOPE>
+
+*OBJECTIVE
+Provide automated protection for indoor or outdoor spaces from weather conditions.
+Minimize manual intervention for roof adjustments.
+Enhance comfort, safety, and usability of spaces.
+*SCOPE
+Residential Applications:Automated terrace roofs for weather protection and 
+ventilation.Carports to shield vehicles from rain, sunlight, and snow.Patios 
+and balconies with adjustable shading options.
+Commercial Spaces:Retractable roofs for outdoor restaurants, cafes, and event 
+spaces.Shopping malls and atriums for natural light.
+
+<HARDWARE COMPONENTS>
+Two channel relay
+One channel relay
+Rain Sensor
+9v Battery
+
+<ADVANTAGES & APPLICATIONS>
+
+*ADVANTAGES
+Cost Maintenance
+Automation
+Energy-Efficient
+Durability
+Simple Design and Implementation
+Weather Protection
+Low Maintenance
+Safety
+
+*APPLICATIONS
+Residential Buildings
+Greenhouses
+Industrial Warehouses
+Parking Lots and Garages
+Stadiums and Arenas
+Cafes and Restaurants with Outdoor Seating
+
+<CONCLUSION>
+
+The Automated Roof shed using a relay system is an innovative solution 
+that enhances the functionality and convenience of roof shields. The 
+system automatically opens or closes the roof based on environmental 
+factors such as weather conditions, using a relay for controlling the motor.
+
+<REFERENCES>
+1. Kumar.K.C. et al., "Design and Development of Automated 
+Water RoofShedController Using Arduino, vol. 69, no. 5, pp. 1054-1061, May 
+2021.
+
+2. Mishra.P.K. et al., "Automated Water Roof Shed Controller 
+Using MachineLearning-Based IoT System," vol. 16, no. 4, pp. 2314-
+2323,April 2020.
+
+3. Singh.G et al., "IoT-Based Automated Water Roof Shed 
+Controller forSmartBuildings,", vol. 7, no. 4, pp. 3414-3423,April 2020.
+
+4. Yang Z.L and Chen.G"Design and research of amphibious 
+cleaningrobot.vol 8, 112-116, Jul. 2017.
+
+5. Yuyi.Z, Yu.Z , Huanxin.L ,Yunjia.L and Liang.L,
+"Control systemdesign for a surface cleaning robot", vol. 10, pp. 220, Jan. 
+2013.
+
+
+
+THANK YOU
