@@ -1,0 +1,101 @@
+20EC5203  ELECTRONIC DESIGN PROJECT- I
+MODULE 1 - AUTOMATIC WATER PUMP SWITCHER 
+
+<ABSTRACT>
+
+An automated water pump switcher is an advanced system designed to automate 
+the operation of water pumps, ensuring efficient water management in various 
+applications. This system utilizes sensors to continuously monitor the water
+levels in tanks, reservoirs, or wells. When the water level drops below a 
+specified threshold, the switcher activates the pump to fill the tank. Conversely,
+when the tank reaches its maximum level, the system automatically turns off the
+pump to prevent overflow. This automation eliminates the need for manual control, 
+reducing human effort and minimizing the risk of pump damage due to dry running or 
+overloading. Additionally, it conserves energy by ensuring the pump operates only
+when necessary, thereby enhancing overall efficiency. 
+
+<INTRODUCTION>
+
+Water is a vital resource, and efficient water management is essential in residential,
+agricultural, and industrial sectors. Traditional methods of controlling water pumps 
+often require manual operation, which can lead to inefficiencies such as water wastage,
+energy loss, and equipment damage due to human error. To address these challenges, an 
+automatic water pump switcher has been developed as a smart solution that automates the 
+process of water pumping based on real-time water level monitoring. This system ensures 
+that the pump operates only when necessary, turning on when water levels are low and 
+switching off when the desired level is reached. By integrating sensor technology, 
+the automatic water pump switcher offers a reliable, energy-efficient, and cost-effective 
+approach to water management, reducing manual labor while promoting sustainable use of 
+resources.
+
+<OBJECTIVE AND SCOPE>
+
+*OBJECTIVE
+1. Automation: The primary objective is to automate the water pump control process, 
+ensuring efficient operation without manual intervention.
+2. Resource Optimization: Achieve optimal water usage by activating the pump only 
+when necessary (e.g., based on water level or other relevant conditions
+*SCOPE
+1. Circuit Design: Design a reliable electronic circuit that senses water levels
+and controls the pump.
+2. Component Selection Choose appropriate sensors, switches, and relays for the system.
+3. Installation: Implement the system for specific applications 
+(e.g., domestic water tanks, agricultural irrigation, industrial processes).
+
+<HARDWARE COMPONENTS>
+
+555 Timer IC
+Resistor
+Capacitor
+Cables and Connectors
+Diodes
+Bread board 
+LED’S
+Switch
+Relay
+
+<ADVANTAGES & APPLICATIONS>
+
+*ADVANTAGES
+Cost-Effective
+Convenience
+Automatic operation
+Time Saving
+Easy Installation
+Consistence Water Pressure
+Enhanced Safety
+
+*APPLICATIONS
+1.Home Water Tanks
+2.RainWater Harvesting
+3.Garden Irrigation
+4.Industrial Processes
+5.Animal Watering
+6.Water Tank and Reservoirs
+7.Fire fighting Systems
+
+
+<CONCLUSION>
+
+The Automated Water Pump Controller is an efficient solution for managing water pumps,
+ensuring optimal operation through automation. It uses sensors to monitor water levels
+and controls the pump based on real-time data, preventing water wastage and energy inefficiency.
+
+<REFERENCES>
+
+1. Abate.A , Bessa.I, Cattaruzza.D, Chaves.L, Cordeiro.L, 
+David.C, et al.,"DSSynth”Proc. Vol 32,n0.5, Oct. 2021.
+
+2. Bertsekas.D.P, Dynamic Programming and Stochastic Control, 
+Orlando,FL,USA:Academic,vol 9,no.4, 2020.
+
+3. Camacho.E.F and Alba.C.B., Model Predictive Control, 
+London,U.K.:Springer,vol 12,no.4, 2023.
+
+4. Donzé.A and Maler.O, "Robust satisfaction of temporal logic 
+over real-valued signals", pp. 92-106,vol 6,no.3, 2022.
+
+5. Fan.C, Mathur.U, Mitra.S and Viswanathan.M "Controller 
+synthesismadereal”,Proc. 30th Int. Conf. Comput.vol 5,no.3, 2018
+
+THANK YOU
